@@ -18,6 +18,7 @@ O programa solicita ao usuário a área a ser pintada em metros quadrados e, com
 
 ## Exemplo de Execução
 
+Se você inserir uma área de 50 metros quadrados, a saída poderá ser algo como:
 ```plaintext
 ==ATIVIDADE CASA DE TINTAS=
 
@@ -30,6 +31,7 @@ Latas...: 1 unidade(s)
 Galões..: 2 unidade(s)
 
 ```
+Isso indica que seria necessário 1 lata de 18 litros e 1 galão de 3,6 litros para cobrir 50 metros quadrados com uma margem de segurança.
 
 ## Requisitos
 Os requisitos para rodar são simples, é só você baixar o arquivo que deixarei [aqui](https://youtu.be/dQw4w9WgXcQ), extrair o mesmo e abrir. 
