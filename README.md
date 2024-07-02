@@ -7,6 +7,7 @@ Este projeto calcula a quantidade de tinta necessária para pintar uma determina
 ## Descrição
 
 ![image-descrição](https://github.com/brenovazborges/CASA-DE-TINTAS/assets/162759863/fd5a2ffa-b017-402d-bf1a-20078e10e98b)
+
 O programa solicita ao usuário a área a ser pintada em metros quadrados e, com base no rendimento da tinta, calcula a quantidade de litros necessários. Em seguida, determina a quantidade de latas e galões necessários para cobrir a área, considerando uma margem de segurança.
 
 ## Como Usar
