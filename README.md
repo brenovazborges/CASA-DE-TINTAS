@@ -1,5 +1,7 @@
 # Projeto Casa de Tintas
 
+![images](https://github.com/brenovazborges/CASA-DE-TINTAS/assets/162759863/825a0a7b-0b83-4401-8d9d-c2af08583432)
+
 Este projeto calcula a quantidade de tinta necessária para pintar uma determinada área.
 
 ## Descrição
