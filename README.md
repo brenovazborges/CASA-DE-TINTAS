@@ -30,10 +30,9 @@ Latas...: 1 unidade(s)
 Galões..: 2 unidade(s)
 
 ```
----
 
 ## Requisitos
-
+Os requisitos para rodar são simples, é só você baixar o arquivo que deixarei [aqui](https://youtu.be/dQw4w9WgXcQ), extrair o mesmo e abrir. 
 
 ## Criador
 
