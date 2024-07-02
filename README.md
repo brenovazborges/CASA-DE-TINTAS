@@ -28,3 +28,8 @@ Total de 18.3 litros de tinta necessários.
 Distribuição:
 Latas...: 1 unidade(s)
 Galões..: 2 unidade(s)
+
+```
+---
+
+##REQUISITOS
