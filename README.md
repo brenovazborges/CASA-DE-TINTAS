@@ -32,4 +32,9 @@ Galões..: 2 unidade(s)
 ```
 ---
 
-##REQUISITOS
+## Requisitos
+
+
+## Criador
+
+[Breno Vaz Borges](https://github.com/)
