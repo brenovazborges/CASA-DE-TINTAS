@@ -33,8 +33,12 @@ Galões..: 2 unidade(s)
 ```
 Isso indica que seria necessário 1 lata de 18 litros e 1 galão de 3,6 litros para cobrir 50 metros quadrados com uma margem de segurança.
 
-## Requisitos
-Os requisitos para rodar são simples, é só você baixar o arquivo que deixarei [aqui](https://youtu.be/dQw4w9WgXcQ), extrair o mesmo e abrir. 
+ Uma foto do programa em funcionamento:
+ 
+![programa em funcionamento](https://github.com/brenovazborges/CASA-DE-TINTAS/assets/162759863/d20ee71c-fae9-4878-9dd1-46dfb1060f27)
+
+O código pode ser encontrado [aqui](https://github.com/brenovazborges/CASA-DE-TINTAS/blob/main/Program.cs).
+
 
 ## Criador
 
